@@ -1,1 +1,1 @@
-print ('geoinformatyka rządzi OUU YEAaAaaah!!!')
+print ('geoinformatyka rządzi OUU YEAaAaaah!!!rozpoznanie tez meteo tez yaay')
